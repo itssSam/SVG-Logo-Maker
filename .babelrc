@@ -1,3 +1,4 @@
 {
-    "presets": ["@babel/preset-env"]
-  }
+  // Babel configuration specifying presets for transpiling code
+  "presets": ["@babel/preset-env"]
+}
